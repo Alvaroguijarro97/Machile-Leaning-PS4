@@ -1,1 +1,3 @@
-# Class_Lab_08
+# Class Lab 08
+
+Script for the lab and data set 
